@@ -1,0 +1,59 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [32, 32],
+	"textures": {
+		"4": "eqtutmod:block/demoncore_block",
+		"particle": "eqtutmod:block/demoncore_block"
+	},
+	"elements": [
+		{
+			"from": [3, 3, 5],
+			"to": [9, 9, 11],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 3, 9]},
+			"faces": {
+				"north": {"uv": [12, 0, 16, 4], "texture": "#4"},
+				"east": {"uv": [12, 0, 16, 4], "texture": "#4"},
+				"south": {"uv": [12, 0, 16, 4], "texture": "#4"},
+				"west": {"uv": [12, 0, 16, 4], "texture": "#4"},
+				"up": {"uv": [12, 0, 16, 4], "texture": "#4"},
+				"down": {"uv": [12, 0, 16, 4], "texture": "#4"}
+			}
+		},
+		{
+			"from": [0, 6, 2],
+			"to": [12, 12, 14],
+			"rotation": {"angle": 0, "axis": "z", "origin": [7, 9, 6]},
+			"faces": {
+				"north": {"uv": [8, 4, 16, 8], "texture": "#4"},
+				"east": {"uv": [8, 4, 16, 8], "texture": "#4"},
+				"south": {"uv": [8, 4, 16, 8], "texture": "#4"},
+				"west": {"uv": [8, 4, 16, 8], "texture": "#4"},
+				"up": {"uv": [8, 8, 16, 16], "texture": "#4"},
+				"down": {"uv": [0, 8, 8, 16], "texture": "#4"}
+			}
+		},
+		{
+			"from": [0, 0, 2],
+			"to": [12, 6, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 16, -2]},
+			"faces": {
+				"north": {"uv": [8, 4, 16, 8], "texture": "#4"},
+				"east": {"uv": [8, 4, 16, 8], "texture": "#4"},
+				"south": {"uv": [8, 4, 16, 8], "texture": "#4"},
+				"west": {"uv": [8, 4, 16, 8], "texture": "#4"},
+				"up": {"uv": [0, 8, 8, 16], "texture": "#4"},
+				"down": {"uv": [8, 8, 16, 16], "texture": "#4"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "texture": "eqtutmod:item/plaster_item"
+  }
+}

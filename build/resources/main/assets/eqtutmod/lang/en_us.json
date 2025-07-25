@@ -1,0 +1,13 @@
+{
+  "item.eqtutmod.screwdriver_item": "Screwdriver",
+  "item.eqtutmod.plaster_item": "Plaster",
+  "item.eqtutmod.bad_apple_item": "Bad Apple",
+
+  "block.eqtutmod.boulder_block": "Boulder",
+  "block.eqtutmod.sky_block": "Sky Block",
+  "block.eqtutmod.meat_block": "Meat Block",
+  "block.eqtutmod.demoncore_block": "Demoncore",
+  "block.eqtutmod.waxed_weathered_cut_copper_vertical_slab": "Waxed Weathered Cut Copper Vertical Slab",
+
+  "itemGroup.eqtutmod.mod_tab": "Mod Content"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "eqtutmod:block/meat_block",
+    "particle": "eqtutmod:block/meat_block"
+  }
+}

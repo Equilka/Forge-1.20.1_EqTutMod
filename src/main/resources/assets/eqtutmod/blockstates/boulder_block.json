@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "eqtutmod:block/boulder_block",
+        "render_type": "cutout"
+      }
+    ]
+  }
+}

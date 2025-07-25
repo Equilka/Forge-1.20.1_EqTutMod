@@ -1,0 +1,13 @@
+{
+  "item.eqtutmod.screwdriver_item": "Отвёртка",
+  "item.eqtutmod.plaster_item": "Пластырь",
+  "item.eqtutmod.bad_apple_item": "Плохое яблоко",
+
+  "block.eqtutmod.boulder_block": "Валун",
+  "block.eqtutmod.sky_block": "Блок неба",
+  "block.eqtutmod.meat_block": "Мясной блок",
+  "block.eqtutmod.demoncore_block": "Демоническое ядро",
+  "block.eqtutmod.waxed_weathered_cut_copper_vertical_slab": "Вощёная выветрившаяся резная медная вертикальная плита",
+
+  "itemGroup.eqtutmod.mod_tab": "Модовый контент"
+}

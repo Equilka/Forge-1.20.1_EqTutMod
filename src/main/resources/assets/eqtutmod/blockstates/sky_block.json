@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "activated=false": {
+      "model": "eqtutmod:block/sky_block_activated"
+    },
+    "activated=true": {
+      "model": "eqtutmod:block/sky_block"
+    }
+  }
+}

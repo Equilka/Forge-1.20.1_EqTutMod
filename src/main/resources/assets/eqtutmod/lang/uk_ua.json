@@ -1,0 +1,13 @@
+{
+  "item.eqtutmod.screwdriver_item": "Викрутка",
+  "item.eqtutmod.plaster_item": "Пластир",
+  "item.eqtutmod.bad_apple_item": "Погане яблуко",
+
+  "block.eqtutmod.boulder_block": "Брила",
+  "block.eqtutmod.sky_block": "Блок неба",
+  "block.eqtutmod.meat_block": "М'ясний блок",
+  "block.eqtutmod.demoncore_block": "Демонове ядро",
+  "block.eqtutmod.waxed_weathered_cut_copper_vertical_slab": "Навощена вивітрена різьблена мiдна вертикальна плита",
+
+  "itemGroup.eqtutmod.mod_tab": "Модовий вміст"
+}
